@@ -1,0 +1,32 @@
+Bookswapp
+
+Qué quiero que haga: 
+MVP: Que sea una app para intercambiar libros entre conocidos / por zona (si uno quiere desconocidos) 
+
+Para quién es: 
+Lectores / bibliófilos 
+Editoriales independientes/ librerías chicas
+Autores desconocidos que quieren truequear sus libros x otros
+
+¿Por qué la app? 
+Porque no hay nada que centralice este tipo de intercambios, uno quizás no va a leer un libro por segunda vez, está sentado en una pila de libros pero no tiene plata como para ir a comprar uno nuevo. A veces libros muy buenos se quedan sin ser leídos por desconocimiento > x eso las reseñas y que autores desconocidos ofrezcan sus libros para el trueque. 
+
+Problemas que puede haber: 
+Deshonestidad en tanto al estado del libro (x eso sería en ppio en conocidos de fb x ej) 
+Cualquier problema que surge de un e-commerce, fraude y demases (pero tb estaría restringido a ed. Y librerías pequeñas).
+
+
+Features:
+Cargar los libros que querés cambiar
+Swipear los libros que otros quieren intercambiar
+Poner una wishlist con libros que uno quiere 
+Tiene un buscador de libros, por categorías y por nombre de autor/ título. eso tb linkea con la wishlist
+Tiene un chat, para hablar de libros
+Y linkea a revistas de reseñas. goodreads? 
+
+Puede, si se maximiza: 
+Tener un tipo e-commerce de venta (para librerías chicas)
+Tener un autor-lector hub (que te avisa eventos) (tb independiente y de género e.g. poesía)
+Todos pueden ver la wishlist en caso de que quieras regalarle a un amigo un libro.
+
+En otro momento, puede ser de varias cosas, no de libros solo. 
